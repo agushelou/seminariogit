@@ -9,4 +9,5 @@ Created on Sun Dec  5 16:17:44 2021
 
 import pandas as pd
 
-hi='Hola'
+hi='Holaaa'
+print(hi,hi)
